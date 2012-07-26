@@ -1,4 +1,4 @@
 AnimationTemplate
 =================
 
-educator animation templates for schools
+Flash project, animation templates for elearning animations
